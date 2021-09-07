@@ -25,8 +25,8 @@ En voici une représentation simplifiée, sous forme de diagramme :
 </p>
 
 [Trouvez la signification de chacun des champs](https://github.com/CEREMA/schema-arrete-circulation-marchandises/blob/master/documentation/schema-page.md)  
-[Visualisez le schéma au format JSON](https://github.com/CEREMA/schema-arrete-circulation-marchandises/blob/master/schema.json)  
-[Retrouvez l'historique des évolutions du schéma (CHANGELOG)](https://github.com/CEREMA/schema-arrete-circulation-marchandises/blob/master/CHANGELOG.md)
+[Schéma au format JSON](https://github.com/CEREMA/schema-arrete-circulation-marchandises/blob/master/schema.json)  
+[Historique des évolutions du schéma (CHANGELOG)](https://github.com/CEREMA/schema-arrete-circulation-marchandises/blob/master/CHANGELOG.md)
 
 [Prenez connaissance des conventions utilisées pour créer le schéma](https://github.com/CEREMA/schema-arrete-circulation-marchandises/blob/master/A-PROPOS.md)   
 [Référentiel de valeurs pour le champ `VEH_USAGES`](https://github.com/CEREMA/schema-arrete-circulation-marchandises/blob/master/referentiels/VEH_USAGES.csv)  
